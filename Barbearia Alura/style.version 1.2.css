@@ -1,0 +1,104 @@
+.background{
+	background: #CCCCCC;
+	}
+
+nav li{
+	display: inline;	
+	margin-left: 100px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+nav{position: absolute;
+	top: 110px;
+	right: 130px;
+}
+
+.JoãoPaulo{
+	font-size: 30px;
+}
+
+.alinhamentoandcolor{
+	text-align: center;
+	background: #CCCCCC;
+	border: 20px solid; #000000;
+}
+
+.onlycolor{
+	color: #FF0000;
+}
+
+#banner{
+	width: 100%;
+	height: 480px;
+}
+
+.px{
+	font-size: 25px;
+}
+
+.alinhamento{
+	text-align: center;
+	font-size: 30px;
+	padding: 17px;
+	color: #0000FF;
+}
+
+li{
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#jp{
+	width: 50%;
+	height: 400px;
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top ;
+	margin-right: 10%;
+}
+
+#tamanhodaletra{
+	font-size: 50px;
+	font-weight: bold;
+	padding-left: 25px;
+	padding-top: 60px;
+}
+.ccs{
+	position: relative;
+	left: 200px;
+}
+.pinguin{
+	font-size: 40px;
+}
+
+footer{
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+footer p{
+	color: #FFFFFF;
+	margin: 20px 0 0;
+
+
+
+
+	
+
+
+
+
+
+
+
